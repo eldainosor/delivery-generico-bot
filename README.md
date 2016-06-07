@@ -1,2 +1,2 @@
 # delivery-generico-bot
-Un bot de delivery para Telegram
+Es un bot para telegram.
